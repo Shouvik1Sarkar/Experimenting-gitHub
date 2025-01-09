@@ -1,1 +1,3 @@
 Hi I am practicing Git and Git Hub. What about you?
+
+Some bugs were here so I fixed
