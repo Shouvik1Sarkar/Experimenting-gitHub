@@ -10,3 +10,7 @@ This is an important password: 12345
 Let's see what happens next
 
 One more line
+
+.
+
+This is it
